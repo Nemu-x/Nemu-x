@@ -1,4 +1,4 @@
-<img width="834" height="131" alt="image" src="https://github.com/user-attachments/assets/da1af5fc-f8b5-4900-84d2-88987dafc32a" /><h1 align="center">
+<h1 align="center">
   <img src="horde.png" width="40" style="vertical-align:middle;" />
   Kernelmancer
   <img src="horde.png" width="40" style="vertical-align:middle;" />
