@@ -69,11 +69,13 @@
 
 ## 🧩 Tech Domains
 
-**Linux** ▰▰▰▰▰▰▰▰▰▰ 100%<br/>
-**Networking** ▰▰▰▰▰▰▰▰▰▱ 92%<br/>
-**Infrastructure** ▰▰▰▰▰▰▰▰▰▱ 91%<br/>
-**Debugging** ▰▰▰▰▰▰▰▰▱▱ 88%<br/>
-**Automation** ▰▰▰▰▰▰▰▰▱▱ 84%
+**Go / Backend** ▰▰▰▰▰▰▰▰▱▱ 82%<br/>
+**Linux / Systems** ▰▰▰▰▰▰▰▰▰▰ 100%<br/>
+**Networking / Proxies** ▰▰▰▰▰▰▰▰▰▱ 94%<br/>
+**Infrastructure / Virtualization** ▰▰▰▰▰▰▰▰▰▱ 91%<br/>
+**Debugging / Root Cause Hunting** ▰▰▰▰▰▰▰▰▰▱ 90%<br/>
+**Automation / CI** ▰▰▰▰▰▰▰▰▱▱ 86%<br/>
+**Android / Client Dev** ▰▰▰▰▰▰▰▱▱▱ 74%
 
 ---
 
@@ -81,38 +83,50 @@
 
 * 🟢 Entered the open-source arena
 * 🟢 First PRs merged
-* 🟡 Expanding mihomo / clash contributions
+* 🟢 Forged ClashFest into a living Android client
+* 🟡 Expanding mihomo / Clash Meta ecosystem contributions
+* 🟡 Sharpening Go skills through real upstream work
+* 🟡 Building better tooling around proxies, rules and routing
 * 🔴 Earn repeated upstream merges
-* 🔴 Become legendary maintainer
+* 🔴 Become a trusted maintainer in the proxy realm
+* 🔴 Reach legendary Kernelmancer status
 
 ---
 
 ## 🧰 Toolkit
 
-* 🐧 Linux / Ubuntu
+* 🐹 Go / backend development
 * 🌐 Networking / proxies / routing
-* ☁️ ESXi / virtualization
-* 🧠 Home Assistant
-* 🗄️ PostgreSQL / 1C
-* 🤖 Local LLMs
+* 🧬 mihomo / Clash Meta ecosystem
+* 📱 Android / Kotlin / client development
+* 🐧 Linux / Ubuntu / server operations
+* ☁️ ESXi / virtualization / lab infrastructure
+* ⚙️ GitHub Actions / CI automation
+* 🧪 Debugging / tracing / config exorcism
+* 🤖 Local LLMs / AI-assisted workflows
 
 ---
 
 ## 🏆 Achievements
 
 * 🏅 **First PR** — entered the open-source arena
-* 🛠️ **Bug Exorcist** — removed cursed configs
+* 📱 **Client Forger** — shaped ClashFest into a real Android client
+* 🐹 **Gopher Initiate** — sharpening Go through production-grade OSS
+* 🌐 **Routebinder** — bends traffic through rules, proxies and routing logic
+* 🛠️ **Bug Exorcist** — removes cursed configs and haunted edge cases
 * 🌙 **Daemonwalker** — active when others sleep
 * 🔧 **Patchbinder** — turns issues into commits
-* ⚔️ **Infra Guardian** — maintains system stability
+* ⚙️ **CI Warlock** — automates builds, rules and release rituals
+* ⚔️ **Infra Guardian** — keeps systems alive under pressure
 
 ---
 
 ## 📜 Tavern Bio
 
-sudo make me a sandwich 🥪
-casting patches into the kernel ✝️
-root by day, daemon by night 🌙
+sudo make me a sandwich 🥪  
+casting patches into the network stack ✝️  
+root by day, daemon by night 🌙  
+routing packets, breaking curses, shipping fixes ⚙️  
 for the horde ⚔️
 
 ---
