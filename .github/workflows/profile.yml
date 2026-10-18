@@ -1,0 +1,55 @@
+# Renders the profile SVGs (metrics card + contribution snake) into the `output` branch.
+name: profile
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Metrics card
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
+          user: Nemu-x
+          filename: metrics.svg
+          committer_branch: output
+          committer_message: "chore: update metrics.svg"
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Europe/Moscow
+          config_display: large
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, nsis, cmake, shell
+          plugin_languages_limit: 8
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+      - name: Contribution snake
+        uses: Platane/snk/svg-only@v3.5.0
+        with:
+          github_user_name: Nemu-x
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark&color_snake=#c0392b&color_dots=#161b22,#3b1a4a,#5b2a73,#7d3c98,#a569bd
+            dist/snake-light.svg?color_snake=#7a0c0c&color_dots=#ebedf0,#d7bde2,#bb8fce,#8e44ad,#5b2c6f
+
+      - name: Push snake to output branch
+        run: |
+          git clone --depth 1 --branch output "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" out
+          cp dist/snake-*.svg out/
+          cd out
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add snake-*.svg
+          git diff --cached --quiet || git commit -m "chore: update snake"
+          git push

@@ -1,19 +1,12 @@
-<h1 align="center">
-  <img src="horde.png" width="36" style="vertical-align:middle;" />
-  Kernelmancer
-  <img src="horde.png" width="36" style="vertical-align:middle;" />
-</h1>
+<p align="center"><img src="banner.jpg" width="100%" alt="Kernelmancer" /></p>
+
 <p align="center"><i>Proxy cores · Network clients · Infrastructure — Go, Kotlin, Linux</i></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go" />
-  <img src="https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/mihomo-8E44AD?style=for-the-badge" alt="mihomo" />
+  <a href="https://nemu-x.github.io/nemux-pages/"><img src="https://img.shields.io/badge/site-nemu--x.github.io-8E44AD?style=for-the-badge" alt="Site" /></a>
+  <img src="https://img.shields.io/badge/500%2B-merged%20PRs-0d1117?style=for-the-badge&logo=git&logoColor=white" alt="500+ merged PRs" />
   <img src="https://img.shields.io/badge/Horde-7a0c0c?style=for-the-badge" alt="Horde" />
 </p>
-
-<p align="center"><img src="banner.png" width="70%" /></p>
 
 ---
 
@@ -67,7 +60,18 @@ Proxy core for [Mikan](https://github.com/Miroshka000/mikan) (mihomo fork) — *
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nemu-x&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/Nemu-x/Nemu-x/output/metrics.svg" alt="Metrics" />
 </p>
 
-<p align="center"><b>✝️ Discipline above chaos. For the Horde. For uptime. ⚔️</b></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nemu-x/Nemu-x/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Nemu-x/Nemu-x/output/snake-light.svg" alt="Contribution snake" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="horde.png" height="28" style="vertical-align:middle;" />
+  &nbsp;<b>Discipline above chaos. For the Horde. For uptime.</b>&nbsp;
+  <img src="horde.png" height="28" style="vertical-align:middle;" />
+</p>
