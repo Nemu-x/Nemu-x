@@ -42,7 +42,9 @@ Proxy core for [Mikan](https://github.com/Miroshka000/mikan) (mihomo fork) — *
 ## 🧰 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,kotlin,ts,rust,tauri,androidstudio,linux,ubuntu,bash,powershell,docker,githubactions,azure&perline=13" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=go,rust,kotlin,ts,js,python,php,vue,astro,godot&perline=10" alt="Languages" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=tauri,androidstudio,linux,ubuntu,bash,powershell,docker,githubactions,azure&perline=9" alt="Tools" />
 </p>
 
 <p align="center">
