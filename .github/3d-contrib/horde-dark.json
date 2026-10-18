@@ -1,0 +1,11 @@
+{
+  "type": "normal",
+  "fileName": "contrib-3d-dark.svg",
+  "backgroundColor": "#0d1117",
+  "foregroundColor": "#e6edf3",
+  "strongColor": "#e0412f",
+  "weakColor": "#8b949e",
+  "radarColor": "#8e44ad",
+  "growingAnimation": true,
+  "contribColors": ["#21262d", "#4a1d5e", "#7d3c98", "#a3201b", "#e0412f"]
+}

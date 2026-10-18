@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://nemu-x.github.io/nemux-pages/"><img src="https://img.shields.io/badge/site-nemu--x.github.io-8E44AD?style=for-the-badge" alt="Site" /></a>
-  <img src="https://img.shields.io/badge/500%2B-merged%20PRs-0d1117?style=for-the-badge&logo=git&logoColor=white" alt="500+ merged PRs" />
   <img src="https://img.shields.io/badge/Horde-7a0c0c?style=for-the-badge" alt="Horde" />
 </p>
 
@@ -37,8 +36,6 @@ Proxy core for [Mikan](https://github.com/Miroshka000/mikan) (mihomo fork) — *
 | [PasarGuard/panel](https://github.com/PasarGuard/panel/pulls?q=author%3ANemu-x) | XHTTP in Clash Meta subscriptions, Hysteria2 SNI fix |
 | [enfein/mieru](https://github.com/enfein/mieru/pulls?q=author%3ANemu-x) | ClashFest & SlothClash listed as official third-party clients |
 
-**500+ merged PRs** across 20 repositories.
-
 ## 🧰 Stack
 
 <p align="center">
@@ -67,8 +64,8 @@ Proxy core for [Mikan](https://github.com/Miroshka000/mikan) (mihomo fork) — *
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nemu-x/Nemu-x/output/snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Nemu-x/Nemu-x/output/snake-light.svg" alt="Contribution snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nemu-x/Nemu-x/output/contrib-3d-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Nemu-x/Nemu-x/output/contrib-3d-light.svg" alt="3D contribution calendar" />
   </picture>
 </p>
 
