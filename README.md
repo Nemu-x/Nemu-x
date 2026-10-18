@@ -48,7 +48,21 @@ Proxy core for [Mikan](https://github.com/Miroshka000/mikan) (mihomo fork) — *
 
 ## 🧰 Stack
 
-`Go` `Kotlin` `TypeScript` `Rust` · `mihomo` `VLESS/XHTTP` `Hysteria2` `TUIC` `uTLS` · `Linux` `ESXi` `OpenWrt` · `GitHub Actions` · `Microsoft 365 / Entra`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,kotlin,ts,rust,tauri,androidstudio,linux,ubuntu,bash,powershell,docker,githubactions,azure&perline=13" alt="Stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/mihomo-8E44AD?style=flat-square" alt="mihomo" />
+  <img src="https://img.shields.io/badge/VLESS%20%2F%20XHTTP-8E44AD?style=flat-square" alt="VLESS / XHTTP" />
+  <img src="https://img.shields.io/badge/Hysteria2-8E44AD?style=flat-square" alt="Hysteria2" />
+  <img src="https://img.shields.io/badge/TUIC-8E44AD?style=flat-square" alt="TUIC" />
+  <img src="https://img.shields.io/badge/AnyTLS-8E44AD?style=flat-square" alt="AnyTLS" />
+  <img src="https://img.shields.io/badge/uTLS-8E44AD?style=flat-square" alt="uTLS" />
+  <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=flat-square&logo=openwrt&logoColor=white" alt="OpenWrt" />
+  <img src="https://img.shields.io/badge/ESXi-607078?style=flat-square&logo=vmware&logoColor=white" alt="ESXi" />
+  <img src="https://img.shields.io/badge/Microsoft%20365%20%2F%20Entra-0078D4?style=flat-square" alt="Microsoft 365 / Entra" />
+</p>
 
 ---
 
